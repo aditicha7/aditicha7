@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditi!
-- 🌱 I’m currently studying Computer Science at UC Berkeley.
+- 🌱 I’m currently studying Data Science + Computer Science at UC Berkeley.
 - 👀 I’m interested in big data visualization/analytics, AI/ML/NLP, and software engineering/product development!
 - 📫 Email me at aditichatterjee@berkeley.edu :3
 
